@@ -1,2 +1,5 @@
 # leetcode_tasks
-Tasks solved by me from the leetcode site
+LeetCode problems solutions in Java Language
+
+My LeetCode profile:
+https://leetcode.com/merenaas/
