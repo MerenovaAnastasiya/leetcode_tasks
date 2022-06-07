@@ -10,7 +10,7 @@ public class RemoveDuplicatesFromSortedArray {
             if (nums.length == 1)
                 return k;
             for (int i = 1; i < nums.length; i++) {
-                if (nums[i] != nums[i-1])
+                if (nums[i] != nums[i - 1])
                     nums[k++] = nums[i];
             }
             return k;
